@@ -5,6 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>ES-LETI-1Sem-Grupo-10</name>
   
+<properties>
+  <sonar.organization>es20222023</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>	
+	
   <dependencyManagement>
   	<dependencies>
   		<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
